@@ -40,8 +40,8 @@ To see Markdown Details[  Click here for mardown.org](https://www.markdownguide.
 
 
 **To create a table**
-Name|Branch|Section|Roll Number  
------|------|------|--------
+|Name|Branch|Section|Roll Number|
+|-----|------|------|--------|
 Bhavana|cse|a|4
 Nishitha|cse|a|28
 Manasa|cse|a|64
